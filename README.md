@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crojs
-- 👀 I’m confused
-- 🌱 I’m trying to learn web development
+- 🌱 Tried to learn something
+- 👀 Yet I’m confused
 
 <!---
 Crojs/Crojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
